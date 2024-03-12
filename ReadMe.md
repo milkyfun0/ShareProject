@@ -44,11 +44,11 @@
 
 ## 20240229 添加了向量相似化分析
 
-![image-20240308113559663](D:\Code\Pycharm\Project\figures\20240229.png)
+![image-20240308113559663](./figures\20240229.png)
 
 ## 20240303 添加了AttentionMap可视化
 
-![image-20240308113713568](D:\Code\Pycharm\Project\figures\20240303png)
+![image-20240308113713568](./figures\20240303png)
 
 
 
@@ -127,7 +127,7 @@ def forward(self, x: torch.Tensor, shared_info: torch.Tensor, attn_mask: torch.T
 
 # Base_PosCNN
 
-![image-20240308222144765](D:\Code\Pycharm\Project\figures\PosCNN)
+![image-20240308222144765](./figures\PosCNN)
 
 ```python
 class PosCNN(nn.Module):
